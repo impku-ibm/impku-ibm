@@ -51,7 +51,7 @@ I am a passionate backend engineer with **7+ years of experience** in designing,
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/pankaj-kumar-33a98519b](https://www.linkedin.com/in/pankaj-kumar-33a98519b)  
+- **LinkedIn:** [linkedin.com/in/pankaj-kumar-nit](https://www.linkedin.com/in/pankaj-kumar-nit)  
 - **GitHub:** [github.com/impku-ibm](https://github.com/impku-ibm)  
 - **Email:** [pankaju713@gmail.com](mailto:pankaju713@gmail.com)  
 
