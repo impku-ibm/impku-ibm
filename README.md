@@ -42,10 +42,10 @@ Identifying optimization opportunities and architectural improvements
 ⚡ Faster onboarding into complex codebases using AI-driven understanding
 ⚡ Improved delivery speed for new features by ~30%
 ⚡ Significant reduction in debugging time through AI-assisted issue analysis
-💼 Professional Experience
-Senior Software Engineer – Unifocus
 
-Mar 2025 – Present
+
+💼 Professional Experience
+Senior Software Engineer – Unifocus          Mar 2025 – Present
 
 Architecting and delivering enterprise-grade microservices using Java, Spring Boot, and REST APIs
 Implementing CI/CD pipelines (Jenkins, Docker, Rundec) for seamless deployments
@@ -53,17 +53,16 @@ Integrating advanced reporting tools (Logi, Dundas BI) for real-time analytics
 Driving AI adoption in development workflows using Amazon Q Developer & Kiro
 Generating services, APIs, and integrations using AI, significantly reducing development time
 Building AI-assisted development pipelines for faster feature delivery and system integration
-Senior Software Engineer – Jio Platforms Limited
 
-Apr 2020 – Feb 2025
+
+Senior Software Engineer – Jio Platforms Limited      Apr 2020 – Feb 2025
 
 Designed and scaled microservices architecture handling high-volume traffic
 Built REST APIs reducing integration time by 40%
 Optimized database queries and improved system performance
 Implemented asynchronous processing for better throughput
-Associate System Engineer – IBM India Pvt. Ltd.
 
-Jun 2018 – Apr 2020
+Associate System Engineer – IBM India Pvt. Ltd.       Jun 2018 – Apr 2020
 
 Developed backend systems using Java, Spring Boot, Hibernate, Oracle
 Improved DB performance through optimized JPA/Hibernate queries
@@ -72,9 +71,10 @@ Improved DB performance through optimized JPA/Hibernate queries
 📊 Enabled real-time analytics platforms at Unifocus
 🤖 Successfully introduced AI-assisted development practices in production workflows
 ⚡ Boosted team productivity by integrating AI tools into daily development
+
+
 📂 Featured Projects
 E-Commerce Microservices Platform
-
 → Spring Boot, Kafka, Docker, Kubernetes-based scalable system
 Recommendation Engine
 
