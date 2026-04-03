@@ -45,6 +45,7 @@ Identifying optimization opportunities and architectural improvements
 
 
 💼 Professional Experience
+
 Senior Software Engineer – Unifocus          Mar 2025 – Present
 
 Architecting and delivering enterprise-grade microservices using Java, Spring Boot, and REST APIs
